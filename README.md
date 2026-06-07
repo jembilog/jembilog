@@ -28,11 +28,21 @@ I am Jemelrey, a Computer Engineering student with a strong passion for embedded
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jembilog&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+## ✍️ Random Dev Quote
 
----
-[![](https://komarev.com/ghpvc/?username=jembilog&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=jembilog&style=for-the-badge&color=0e75b6)](https://visitcount.itsvg.in)
+
+</div>
 
 
 ## 📊 GitHub Activity
