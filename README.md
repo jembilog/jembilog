@@ -26,8 +26,8 @@ I am Jemelrey, a Computer Engineering student with a strong passion for embedded
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jembilog&theme=react-dark)
 
-## 🔥 Coding Streak
+## 📊 GitHub Stats Overview
 
-![](https://streak-stats.demolab.com/?user=jembilog&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=jembilog&theme=tokyonight&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
