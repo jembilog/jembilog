@@ -21,4 +21,8 @@ I am Jemelrey, a Computer Engineering student with a strong passion for embedded
 ---
 [![](https://komarev.com/ghpvc/?username=jembilog&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🐍 Contributions
+
+![Snake animation](https://github.com/jembilog/jembilog/blob/output/github-contribution-grid-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
