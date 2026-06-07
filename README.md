@@ -26,4 +26,8 @@ I am Jemelrey, a Computer Engineering student with a strong passion for embedded
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jembilog&theme=react-dark)
 
+## 📈 Activity Overview
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jembilog&theme=github-compact)](https://github.com/jembilog)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
