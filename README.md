@@ -21,8 +21,9 @@ I am Jemelrey, a Computer Engineering student with a strong passion for embedded
 ---
 [![](https://komarev.com/ghpvc/?username=jembilog&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jembilog&theme=github-compact)](https://github.com/jembilog)
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jembilog&theme=react-dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
