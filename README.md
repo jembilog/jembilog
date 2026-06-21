@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Jemelrey, a Computer Engineering student with a strong passion for embedded systems, robotics, IoT, and software development. I enjoy building projects that combine hardware and software. In addition to embedded development, I also work work with modern web technologies to create full-stack applications.<br>I am continuously expanding my knowledge in computer architecture, DSA, and systems design and control.<br>I am constantly learning, building and exploring new technologies to improve my engineering and problem-solving skills.<br>I want to become an AI/ML engineer so bad or if not then CUDA software engineer:(
+I am Jemelrey, a Computer Engineering student with a strong passion for embedded systems, robotics, IoT, and software development. I enjoy building projects that combine hardware and software. In addition to embedded development, I also work work with modern web technologies to create full-stack applications.<br>I am continuously expanding my knowledge in computer architecture, DSA, and systems design and control.<br>I am constantly learning, building and exploring new technologies to improve my engineering and problem-solving skills.<br>I want to become an AI/ML engineer
 
 
 ## 🌐 Socials:
