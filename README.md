@@ -8,6 +8,10 @@
 
 </div>
 
+<div align="center">
+<img src="assets/ai-chip.svg" width="500"/>
+</div>
+
 
 <br>
 
