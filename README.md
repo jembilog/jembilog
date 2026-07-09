@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Embedded+Systems+Developer;Robotics+Enthusiast;Full+Stack+Developer;Building+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+in+Progress;Embedded+Systems+Developer;Robotics+Enthusiast;Full+Stack+Developer"/>
 
 </div>
 
@@ -14,248 +14,316 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Jemelrey Abastillas
+# JEMELREY ABASTILLAS
 
-### Computer Engineering Student
-### AI • Machine Learning • Robotics • Embedded Systems
+**Computer Engineering Student**
 
-*"Building intelligent systems where hardware meets software."*
+`Artificial Intelligence` · `Machine Learning` · `Embedded Systems` · `Robotics`
+
+Building intelligent systems where software meets hardware.
 
 </div>
 
 
----
-
-# 🧠 About Me
-
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 👨‍💻 Who Am I?
-
-I am a Computer Engineering student passionate about creating intelligent systems using:
-
-- Artificial Intelligence
-- Machine Learning
-- Embedded Systems
-- Robotics
-- IoT
-- Software Development
-
-
-</td>
-
-<td width="50%">
-
-### 🎯 Mission
-
-```python
-class Engineer:
-
-    def __init__(self):
-        self.goal = "AI/ML Engineer"
-        self.focus = [
-            "Deep Learning",
-            "Robotics",
-            "Computer Vision",
-            "Embedded AI"
-        ]
-
-```
-
-</td>
-
-</tr>
-</table>
+<br>
 
 
 ---
-
-# 🚀 Featured Projects
-
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🔥 AI Smoke Detection System
-
-AI-powered safety monitoring system.
-
-### Tech
-
-`ESP32`
-`Machine Learning`
-`Decision Tree`
-`GSM`
-`IoT`
-`Dashboard`
-
-Features:
-
-✅ Smoke classification  
-✅ AI prediction  
-✅ SMS alerts  
-✅ Real-time monitoring
-
-
-</td>
-
-
-<td width="50%">
-
-## 🤖 Machine Learning Projects
-
-
-Building ML models involving:
-
-- Regression
-- Classification
-- Data Analysis
-- Feature Engineering
-- Model Evaluation
-
-
-Tools:
-
-`Python`
-`NumPy`
-`Pandas`
-`Scikit-Learn`
-
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td>
-
-
-## 🌐 Full Stack Applications
-
-
-Building modern applications:
-
-- Portfolio websites
-- REST APIs
-- Web dashboards
-- Database systems
-
-
-Stack:
-
-`React`
-`Node.js`
-`MongoDB`
-
-
-</td>
-
-
-<td>
-
-
-## ⚡ Embedded Systems
-
-
-Hardware + Software Projects:
-
-- ESP32
-- Arduino
-- Sensors
-- IoT Devices
-- Automation
-
-
-</td>
-
-
-</tr>
-
-
-</table>
-
-
----
-
-# 🛠️ Tech Arsenal
-
 
 <div align="center">
 
+## PROFILE
+
+</div>
+
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### About
+
+I am a Computer Engineering student focused on building intelligent systems through:
+
+- Machine Learning
+- Embedded AI
+- Robotics
+- IoT
+- Backend Engineering
+
+
+</td>
+
+
+<td width="50%" valign="top">
+
+
+### Current Focus
+
+
+```yaml
+learning:
+  - Deep Learning
+  - Computer Vision
+  - PyTorch
+  - Robotics
+  - System Design
+
+goal:
+  AI/ML Engineer
+```
+
+
+</td>
+
+</tr>
+</table>
+
+
+
+---
+
+<div align="center">
+
+## FEATURED WORK
+
+</div>
+
+
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+
+### AI Smoke Detection
+
+
+ESP32 + Machine Learning based safety system.
+
+
+```
+Sensors
+   ↓
+AI Model
+   ↓
+Prediction
+   ↓
+Alert System
+```
+
+
+</td>
+
+
+
+<td width="33%" align="center">
+
+
+### Machine Learning
+
+
+Building models for:
+
+```
+Regression
+Classification
+Prediction
+Analysis
+```
+
+
+</td>
+
+
+
+<td width="33%" align="center">
+
+
+### Full Stack Systems
+
+
+Creating:
+
+```
+APIs
+Dashboards
+Web Apps
+Databases
+```
+
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+---
+
+<div align="center">
+
+# TECH ARSENAL
+
+</div>
+
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,java,rust" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,java,rust"/>
+
+</td>
+
+
+<td align="center" width="25%">
 
 
 ### AI / Data
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/>
 
 
-### Web Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</td>
 
 
-### Database
+<td align="center" width="25%">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+
+### Web
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind"/>
+
+
+</td>
+
+
+<td align="center" width="25%">
 
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode"/>
 
 
-</div>
+</td>
+
+
+</tr>
+
+
+</table>
+
 
 
 ---
 
-# 🧪 Currently Learning
+<div align="center">
+
+## SYSTEMS & HARDWARE
+
+</div>
 
 
 <div align="center">
 
 
-| Field | Technologies |
-|-|-|
-| AI | Deep Learning, Computer Vision, PyTorch |
-| Robotics | Embedded Systems, Sensors, Automation |
-| Backend | APIs, System Design |
-| Systems | C++, Architecture, Optimization |
-
-
-</div>
-
-
----
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=jembilog&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jembilog&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
 
 <br><br>
+
+
+`ESP32`
+`IoT`
+`Sensors`
+`Embedded C`
+`Microcontrollers`
+`Automation`
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+## DATABASE & CLOUD
+
+</div>
+
+
+<div align="center">
+
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase"/>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+# DEVELOPMENT PHILOSOPHY
+
+</div>
+
+
+<table>
+
+<tr>
+
+<td align="center">
+
+
+```
+Hardware
+    +
+Software
+    +
+Artificial Intelligence
+
+        =
+Intelligent Systems
+```
+
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+
+---
+
+<div align="center">
+
+# GITHUB ANALYTICS
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=jembilog&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jembilog&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+<br>
 
 
 <img src="https://streak-stats.demolab.com?user=jembilog&theme=tokyonight&hide_border=true"/>
@@ -264,41 +332,39 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jembilog&lay
 </div>
 
 
+
 ---
-
-# 🏆 Goals
-
 
 <div align="center">
 
+# ROADMAP
+
 
 ```
-2026 ROADMAP
+2026
 
-🧠 Master Machine Learning
-
-🤖 Build Robotics Projects
-
-🔥 Create AI Applications
-
-⚡ Explore Embedded AI
-
-🌎 Contribute Open Source
-
-🚀 Become AI/ML Engineer
-
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Computer Vision
+        ↓
+Robotics
+        ↓
+AI Engineering
 ```
 
 
 </div>
 
 
+
 ---
 
-# 🌐 Connect
-
-
 <div align="center">
+
+
+## CONTACT
 
 
 <a href="https://github.com/jembilog">
@@ -308,22 +374,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jembilog&lay
 </a>
 
 
-</div>
-
-
-<br>
-
-
-<div align="center">
+<br><br>
 
 
 <img src="https://komarev.com/ghpvc/?username=jembilog&style=for-the-badge"/>
 
 
-<br><br>
+<br>
 
 
-### ⚡ "Engineering intelligence through code and hardware."
+*"Building intelligent systems through code, data, and hardware."*
 
 
 </div>
