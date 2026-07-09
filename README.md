@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jemelrey Abastillas</h1>
-
-<h3 align="center">
-Computer Engineering Student • AI/ML Engineer in Progress • Embedded Systems Developer
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;AI+%26+Machine+Learning;Embedded+Systems+Developer;Robotics+Enthusiast;Full+Stack+Developer;Always+Learning+Something+New" />
+  <img src="assets/hero.svg" width="100%" alt="Hero Banner"/>
 </p>
-
 ---
 
 # 🚀 About Me
