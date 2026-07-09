@@ -319,22 +319,30 @@ Technologies:
 ---
 
 <div align="center">
-<div align="center">
+
 <img src="assets/ai-chip.svg" width="500"/>
+
 </div>
 
+
+
+---
+
+<div align="center">
 
 # ENGINEERING SKILLS
 
 </div>
 
 
+<div align="center">
+
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td align="center" width="50%">
 
 
 ### Artificial Intelligence
@@ -356,7 +364,8 @@ Computer Vision        █████░░░░░ 50%
 </td>
 
 
-<td width="50%">
+
+<td align="center" width="50%">
 
 
 ### Software Engineering
@@ -377,13 +386,14 @@ System Design          █████░░░░░ 50%
 
 </td>
 
+
 </tr>
 
 
 <tr>
 
 
-<td>
+<td align="center">
 
 
 ### Embedded Systems
@@ -405,7 +415,8 @@ Robotics               █████░░░░░ 50%
 </td>
 
 
-<td>
+
+<td align="center">
 
 
 ### Infrastructure
@@ -429,7 +440,11 @@ CUDA                   ███░░░░░░░ 30%
 
 </tr>
 
+
 </table>
+
+
+</div>
 
 
 
@@ -493,38 +508,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jembilog&lay
 
 
 <img src="https://streak-stats.demolab.com?user=jembilog&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
-
----
-
-<div align="center">
-
-# ROADMAP
-
-
-```
-Machine Learning
-
-        ↓
-
-Deep Learning
-
-        ↓
-
-Computer Vision
-
-        ↓
-
-Robotics
-
-        ↓
-
-AI Engineering
-```
 
 
 </div>
