@@ -8,10 +8,6 @@
 
 </div>
 
-<div align="center">
-<img src="assets/ai-chip.svg" width="500"/>
-</div>
-
 
 <br>
 
@@ -42,6 +38,11 @@ Building intelligent systems where software meets hardware.
 <tr>
 
 <td width="50%" valign="top">
+
+
+<div align="center">
+<img src="assets/ai-chip.svg" width="500"/>
+</div>
 
 
 ## About Me
