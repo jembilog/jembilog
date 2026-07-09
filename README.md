@@ -536,8 +536,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jembilog&lay
 
 <br><br>
 
+<div align="center">
 
-"Building intelligent systems through code, data, and hardware."
+<img src="assets/footer.svg" width="100%"/>
+
+</div>
 
 
 </div>
