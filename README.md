@@ -39,12 +39,6 @@ Building intelligent systems where software meets hardware.
 
 <td width="50%" valign="top">
 
-
-<div align="center">
-<img src="assets/ai-chip.svg" width="500"/>
-</div>
-
-
 ## About Me
 
 I am a Computer Engineering student passionate about developing intelligent systems by combining:
@@ -325,6 +319,10 @@ Technologies:
 ---
 
 <div align="center">
+<div align="center">
+<img src="assets/ai-chip.svg" width="500"/>
+</div>
+
 
 # ENGINEERING SKILLS
 
