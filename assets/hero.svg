@@ -1,30 +1,63 @@
-<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg 
+width="1600" 
+height="520" 
+viewBox="0 0 1600 520" 
+fill="none" 
+xmlns="http://www.w3.org/2000/svg">
+
 
 <defs>
 
-<linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500">
 
-<stop offset="0%" stop-color="#040B1F">
-<animate attributeName="stop-color"
-values="#040B1F;#08142E;#040B1F"
-dur="10s"
+<!-- Background Gradient -->
+
+<linearGradient id="background" x1="0" y1="0" x2="1600" y2="520">
+
+<stop offset="0%" stop-color="#020617">
+
+<animate 
+attributeName="stop-color"
+values="#020617;#07152F;#020617"
+dur="12s"
 repeatCount="indefinite"/>
 
 </stop>
 
-<stop offset="100%" stop-color="#0B1D3A">
-<animate attributeName="stop-color"
-values="#0B1D3A;#111827;#0B1D3A"
-dur="10s"
+
+<stop offset="50%" stop-color="#111827">
+
+<animate
+attributeName="stop-color"
+values="#111827;#172554;#111827"
+dur="12s"
 repeatCount="indefinite"/>
 
 </stop>
+
+
+<stop offset="100%" stop-color="#020617">
+
+<animate
+attributeName="stop-color"
+values="#020617;#0F172A;#020617"
+dur="12s"
+repeatCount="indefinite"/>
+
+</stop>
+
 
 </linearGradient>
 
+
+
+<!-- Cyan Glow -->
+
 <filter id="glow">
 
-<feGaussianBlur stdDeviation="4" result="blur"/>
+<feGaussianBlur 
+stdDeviation="5"
+result="blur"/>
+
 
 <feMerge>
 
@@ -34,185 +67,233 @@ repeatCount="indefinite"/>
 
 </feMerge>
 
+
 </filter>
+
+
+
+<!-- Text Gradient -->
+
+<linearGradient id="textGradient">
+
+<stop offset="0%" stop-color="#22D3EE"/>
+
+<stop offset="50%" stop-color="#A78BFA"/>
+
+<stop offset="100%" stop-color="#38BDF8"/>
+
+
+</linearGradient>
+
 
 </defs>
 
-<rect width="1600" height="500" fill="url(#bg)"/>
+
+
+
+<!-- BACKGROUND -->
+
+
+<rect 
+width="1600" 
+height="520"
+fill="url(#background)"
+rx="25"/>
+
+
+
+
 
 <!-- GRID -->
 
-<g opacity=".08">
+<g opacity="0.08" stroke="#38BDF8">
 
-<path d="M0 50H1600"/>
+
 <path d="M0 100H1600"/>
-<path d="M0 150H1600"/>
+
 <path d="M0 200H1600"/>
-<path d="M0 250H1600"/>
+
 <path d="M0 300H1600"/>
-<path d="M0 350H1600"/>
+
 <path d="M0 400H1600"/>
-<path d="M0 450H1600"/>
+
+
+<path d="M200 0V520"/>
+
+<path d="M400 0V520"/>
+
+<path d="M600 0V520"/>
+
+<path d="M800 0V520"/>
+
+<path d="M1000 0V520"/>
+
+<path d="M1200 0V520"/>
+
+<path d="M1400 0V520"/>
+
 
 </g>
 
-<!-- CONNECTIONS -->
 
-<g stroke="#22D3EE" stroke-width="2" opacity=".4">
 
-<line x1="1050" y1="120" x2="1200" y2="190"/>
 
-<line x1="1200" y1="190" x2="1380" y2="140"/>
 
-<line x1="1200" y1="190" x2="1300" y2="320"/>
+<!-- LEFT CONTENT -->
 
-<line x1="1300" y1="320" x2="1120" y2="360"/>
-
-<line x1="1120" y1="360" x2="980" y2="250"/>
-
-<line x1="980" y1="250" x2="1050" y2="120"/>
-
-</g>
-
-<!-- NODES -->
-
-<g fill="#22D3EE" filter="url(#glow)">
-
-<circle cx="1050" cy="120" r="6">
-
-<animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/>
-
-</circle>
-
-<circle cx="1200" cy="190" r="6">
-
-<animate attributeName="r" values="6;10;6" begin=".4s" dur="2s" repeatCount="indefinite"/>
-
-</circle>
-
-<circle cx="1380" cy="140" r="6">
-
-<animate attributeName="r" values="6;10;6" begin=".8s" dur="2s" repeatCount="indefinite"/>
-
-</circle>
-
-<circle cx="1300" cy="320" r="6">
-
-<animate attributeName="r" values="6;10;6" begin="1.2s" dur="2s" repeatCount="indefinite"/>
-
-</circle>
-
-<circle cx="1120" cy="360" r="6">
-
-<animate attributeName="r" values="6;10;6" begin="1.6s" dur="2s" repeatCount="indefinite"/>
-
-</circle>
-
-<circle cx="980" cy="250" r="6">
-
-<animate attributeName="r" values="6;10;6" begin="2s" dur="2s" repeatCount="indefinite"/>
-
-</circle>
-
-</g>
-
-<!-- FLOATING PARTICLES -->
-
-<g fill="#67E8F9">
-
-<circle cx="200" cy="430" r="2">
-
-<animate attributeName="cy" values="430;40;430" dur="12s" repeatCount="indefinite"/>
-
-</circle>
-
-<circle cx="500" cy="420" r="3">
-
-<animate attributeName="cy" values="420;50;420" dur="9s" repeatCount="indefinite"/>
-
-</circle>
-
-<circle cx="800" cy="460" r="2">
-
-<animate attributeName="cy" values="460;70;460" dur="15s" repeatCount="indefinite"/>
-
-</circle>
-
-<circle cx="1500" cy="430" r="3">
-
-<animate attributeName="cy" values="430;20;430" dur="10s" repeatCount="indefinite"/>
-
-</circle>
-
-</g>
-
-<!-- TITLE -->
 
 <text
 x="120"
-y="140"
+y="130"
+fill="#67E8F9"
 font-size="28"
-fill="#7DD3FC"
-font-family="Segoe UI">
+font-family="JetBrains Mono, monospace">
 
-👋 Hello, I'm
+
+HELLO, I'M
+
 
 </text>
 
+
+
 <text
 x="120"
-y="220"
-font-size="58"
-font-weight="bold"
-fill="white"
-font-family="Segoe UI">
+y="210"
+fill="url(#textGradient)"
+font-size="65"
+font-weight="700"
+font-family="Arial, sans-serif"
+filter="url(#glow)">
+
 
 JEMELREY ABASTILLAS
 
+
 </text>
+
+
+
 
 <text
 x="120"
 y="270"
-font-size="24"
-fill="#A5F3FC"
-font-family="Segoe UI">
+fill="#E2E8F0"
+font-size="30"
+font-family="Arial, sans-serif">
+
 
 Computer Engineering Student
 
-</text>
-
-<text
-x="120"
-y="305"
-font-size="24"
-fill="#A5F3FC"
-font-family="Segoe UI">
-
-AI • Machine Learning • Robotics • Embedded Systems
 
 </text>
 
+
+
+
 <text
 x="120"
-y="365"
-font-size="20"
+y="325"
 fill="#94A3B8"
-font-family="Segoe UI">
+font-size="24"
+font-family="Arial, sans-serif">
+
+
+AI / Machine Learning • Robotics • Embedded Systems
+
+
+</text>
+
+
+
+<text
+x="120"
+y="370"
+fill="#64748B"
+font-size="20"
+font-family="Arial, sans-serif">
+
 
 Building intelligent systems where hardware meets software.
 
+
 </text>
 
-<!-- GLOW LINE -->
 
-<rect x="120" y="395" width="420" height="4" fill="#22D3EE">
 
-<animate attributeName="width"
-values="0;420;0"
-dur="4s"
+
+
+<!-- STATUS CHIP -->
+
+
+<rect
+x="120"
+y="420"
+width="300"
+height="45"
+rx="22"
+fill="#0F172A"
+stroke="#22D3EE"
+stroke-width="2"/>
+
+
+
+<circle
+cx="150"
+cy="442"
+r="7"
+fill="#22C55E">
+
+<animate
+attributeName="opacity"
+values="1;0.3;1"
+dur="2s"
 repeatCount="indefinite"/>
 
-</rect>
+</circle>
+
+
+
+<text
+x="175"
+y="450"
+fill="#CBD5E1"
+font-size="18"
+font-family="JetBrains Mono, monospace">
+
+
+AVAILABLE FOR BUILDING
+
+
+</text>
+
+
+
+
+
+<!-- RIGHT SIDE PLACEHOLDER -->
+
+<g opacity="0.3">
+
+
+<circle
+cx="1250"
+cy="250"
+r="130"
+stroke="#22D3EE"
+stroke-width="2"/>
+
+
+<circle
+cx="1250"
+cy="250"
+r="180"
+stroke="#A78BFA"
+stroke-width="1"/>
+
+
+</g>
+
+
 
 </svg>
