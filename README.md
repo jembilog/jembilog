@@ -1,17 +1,25 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Jemelrey AI Hero Banner"/>
+<img src="assets/hero.svg" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Embedded+Systems+Developer;Robotics+Enthusiast;Full+Stack+Developer;Building+Intelligent+Systems" />
 
 </div>
 
+
 <br>
+
 
 <div align="center">
 
 # 👋 Hi, I'm Jemelrey Abastillas
 
-### AI / Machine Learning Engineer in Progress  
-### Embedded Systems • Robotics • Full Stack Development
+### Computer Engineering Student
+### AI • Machine Learning • Robotics • Embedded Systems
+
+*"Building intelligent systems where hardware meets software."*
 
 </div>
 
@@ -20,71 +28,91 @@
 
 # 🧠 About Me
 
-```cpp
-class Jemelrey {
 
-private:
+<table>
+<tr>
 
-    string identity = "Computer Engineering Student";
+<td width="50%">
 
-    vector<string> passions = {
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Robotics",
-        "Embedded Systems",
-        "IoT",
-        "Computer Vision",
-        "Backend Engineering"
-    };
+### 👨‍💻 Who Am I?
 
+I am a Computer Engineering student passionate about creating intelligent systems using:
 
-    vector<string> currentlyLearning = {
-        "Deep Learning",
-        "PyTorch",
-        "Computer Vision",
-        "CUDA",
-        "System Design",
-        "Robotics Engineering"
-    };
+- Artificial Intelligence
+- Machine Learning
+- Embedded Systems
+- Robotics
+- IoT
+- Software Development
 
 
-public:
+</td>
 
-    string mission =
-    "Building intelligent systems where AI meets hardware.";
+<td width="50%">
 
-};
+### 🎯 Mission
+
+```python
+class Engineer:
+
+    def __init__(self):
+        self.goal = "AI/ML Engineer"
+        self.focus = [
+            "Deep Learning",
+            "Robotics",
+            "Computer Vision",
+            "Embedded AI"
+        ]
+
 ```
 
-I am a Computer Engineering student passionate about creating intelligent systems that combine **software, artificial intelligence, and embedded hardware**.
+</td>
 
-My goal is to become an **AI/ML Engineer specializing in Robotics and Intelligent Systems**.
+</tr>
+</table>
+
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔥 Smart AI Smoke Detection System
 
-> AI + IoT based safety monitoring system
+<table>
 
-**Technologies:**
+<tr>
 
-`ESP32` `Machine Learning` `Decision Tree` `MQ Sensors` `GSM` `Web Dashboard`
+<td width="50%">
+
+## 🔥 AI Smoke Detection System
+
+AI-powered safety monitoring system.
+
+### Tech
+
+`ESP32`
+`Machine Learning`
+`Decision Tree`
+`GSM`
+`IoT`
+`Dashboard`
 
 Features:
 
-- Real-time smoke classification
-- AI-based prediction
-- SMS emergency alerts
-- IoT monitoring dashboard
+✅ Smoke classification  
+✅ AI prediction  
+✅ SMS alerts  
+✅ Real-time monitoring
 
 
----
+</td>
+
+
+<td width="50%">
 
 ## 🤖 Machine Learning Projects
 
-Building ML models using:
+
+Building ML models involving:
 
 - Regression
 - Classification
@@ -93,183 +121,181 @@ Building ML models using:
 - Model Evaluation
 
 
----
+Tools:
+
+`Python`
+`NumPy`
+`Pandas`
+`Scikit-Learn`
+
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td>
+
 
 ## 🌐 Full Stack Applications
 
-Building modern applications using:
 
-- React
-- Node.js
-- Express
-- MongoDB
+Building modern applications:
+
+- Portfolio websites
 - REST APIs
+- Web dashboards
+- Database systems
+
+
+Stack:
+
+`React`
+`Node.js`
+`MongoDB`
+
+
+</td>
+
+
+<td>
+
+
+## ⚡ Embedded Systems
+
+
+Hardware + Software Projects:
+
+- ESP32
+- Arduino
+- Sensors
+- IoT Devices
+- Automation
+
+
+</td>
+
+
+</tr>
+
+
+</table>
 
 
 ---
 
-# 🌱 Currently Building
-
-```text
-🤖 AI Models
-🧠 Deep Learning
-📡 ESP32 IoT Systems
-⚡ Embedded Projects
-🌐 Backend APIs
-🚀 Robotics Applications
-```
-
----
-
-# 💻 Tech Stack
-
-
-## Programming Languages
-
-<p>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-
-</p>
-
-
----
-
-## Artificial Intelligence / Data Science
-
-<p>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-</p>
-
-
----
-
-## Web Development
-
-<p>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-</p>
-
-
----
-
-## Embedded Systems / Hardware
-
-<p>
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-
-![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge&logo=espressif)
-
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi)
-
-</p>
-
-
----
-
-## Database & Tools
-
-<p>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
-</p>
-
-
----
-
-# 📊 GitHub Statistics
+# 🛠️ Tech Arsenal
 
 
 <div align="center">
 
-<img height="170"
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,java,rust" />
+
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+
+
+</div>
+
+
+---
+
+# 🧪 Currently Learning
+
+
+<div align="center">
+
+
+| Field | Technologies |
+|-|-|
+| AI | Deep Learning, Computer Vision, PyTorch |
+| Robotics | Embedded Systems, Sensors, Automation |
+| Backend | APIs, System Design |
+| Systems | C++, Architecture, Optimization |
+
+
+</div>
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img height="180"
 src="https://github-readme-stats.vercel.app/api?username=jembilog&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 
-<img height="170"
+<img height="180"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jembilog&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+<br><br>
+
+
+<img src="https://streak-stats.demolab.com?user=jembilog&theme=tokyonight&hide_border=true"/>
 
 
 </div>
 
 
-<br>
+---
+
+# 🏆 Goals
 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jembilog&theme=tokyonight&hide_border=true"/>
+
+```
+2026 ROADMAP
+
+🧠 Master Machine Learning
+
+🤖 Build Robotics Projects
+
+🔥 Create AI Applications
+
+⚡ Explore Embedded AI
+
+🌎 Contribute Open Source
+
+🚀 Become AI/ML Engineer
+
+```
+
 
 </div>
 
 
 ---
 
-# 🏆 Achievements & Goals
-
-
-```
-2026
-
-✓ Improve Machine Learning Skills
-
-✓ Build Advanced AI Projects
-
-✓ Explore Deep Learning
-
-✓ Develop Robotics Systems
-
-✓ Contribute to Open Source
-
-✓ Become an AI/ML Engineer
-```
-
-
----
-
-# 🌐 Connect With Me
+# 🌐 Connect
 
 
 <div align="center">
@@ -285,7 +311,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jembilog&lay
 </div>
 
 
----
+<br>
+
 
 <div align="center">
 
@@ -293,8 +320,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=jembilog&lay
 <img src="https://komarev.com/ghpvc/?username=jembilog&style=for-the-badge"/>
 
 
-<br>
+<br><br>
 
-### "Building the future, one intelligent system at a time."
+
+### ⚡ "Engineering intelligence through code and hardware."
+
 
 </div>
